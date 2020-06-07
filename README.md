@@ -27,11 +27,11 @@ The equation above based on Bellman equation. You can try creating a sample grap
 
 <br><br>
 **Records on AI's evolution**<br>
-* First 10 trials:
+** First 10 trials:**
 * Unstable
 * AI behaved no better than random behaviors
 * The lander just collide with the ground, no clear goal <br>
-Link: https://youtu.be/JrHB2YwNZGo
+Link: https://youtu.be/JrHB2YwNZGo <br><br>
 
 * First 30 trials:
 * AI now learned how to control the lander appropriately to stay in the air longer
