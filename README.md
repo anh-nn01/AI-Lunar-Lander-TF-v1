@@ -3,7 +3,7 @@ A Reinforcement Learning AI Agent that use Deep Q Network to play Lunar Lander
 
 * Implementation: Tensorflow v1
 * Algorithm: Deep Q-Network with a single Fully Connected Neural Network.
-
+<br>
 **Description**
 * The agent has to learn how to land a Lunar Lander to the moon surface safely, quickly and accurately.
 * If the agent just lets the lander fall freely, it is dangerous and thus get a very negative reward from the environment.
@@ -15,6 +15,10 @@ A Reinforcement Learning AI Agent that use Deep Q Network to play Lunar Lander
 * Since the state space is infinite, traditional Q-value table method does not work on this problem. As a result, we need to integrate Q-learning with Neural Network for value approximation. However, the action space remains discrete.
 
 **Q-learning:**<br>
-<img src="Q-learning.jpg">
+<img src="Q-learning.jpg"><br><br>
+
+The equation above based on Bellman equation. You can try creating a sample graph of MDP to see intuitively why the Q-learning method converge to optimal value, thus converging to optimal policy.
+
+* For Deep Q-learning, we simply use a NN to approximate Q-value in each time step, and then update the NN so that the estimate Q(s,a) approach its target.
 
 
