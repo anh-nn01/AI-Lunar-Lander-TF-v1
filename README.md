@@ -24,6 +24,8 @@ The equation above based on Bellman equation. You can try creating a sample grap
 * <img src="Estimation.jpg"><br>
 * <img src="Target.jpg"><br><br>
 
+<img src="Graph.jpg">
+
 <br> It has been proven mathematically and practically that using this approximation, the algorithm with converge to optimal policy in reasonable amount of time.
 
 <br><br>
