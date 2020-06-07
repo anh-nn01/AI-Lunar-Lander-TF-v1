@@ -52,5 +52,5 @@ Link: https://youtu.be/p0eLKrLpW8w
 **Comparision of performance**<br>
 
 * 10 episodes:<br>
-<img source = "Gen10.gif">
+<img src = "Gen10.gif">
 
