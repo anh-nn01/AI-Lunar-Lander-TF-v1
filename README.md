@@ -30,7 +30,7 @@ The equation above based on Bellman equation. You can try creating a sample grap
 * First 10 trials:
 * Unstable
 * AI behaved no better than random behaviors
-* The lander just collide with the ground, no clear goal
+* The lander just collide with the ground, no clear goal <br>
 Link: https://youtu.be/JrHB2YwNZGo
 
 
