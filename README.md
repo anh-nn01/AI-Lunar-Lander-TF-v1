@@ -19,6 +19,8 @@ A Reinforcement Learning AI Agent that use Deep Q Network to play Lunar Lander
 
 The equation above based on Bellman equation. You can try creating a sample graph of MDP to see intuitively why the Q-learning method converge to optimal value, thus converging to optimal policy.
 
-* For Deep Q-learning, we simply use a NN to approximate Q-value in each time step, and then update the NN so that the estimate Q(s,a) approach its target.
+* For Deep Q-learning, we simply use a NN to approximate Q-value in each time step, and then update the NN so that the estimate Q(s,a) approach its target:<br>
+* <img src="Estimation.jpg"><br>
+*<img src="Target.jpg"><br><br>
 
 
