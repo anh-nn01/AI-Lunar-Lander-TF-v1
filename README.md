@@ -54,3 +54,10 @@ Link: https://youtu.be/p0eLKrLpW8w
 * 10 episodes:<br>
 <img src = "Gen10.gif">
 
+
+* 60 episodes:<br>
+<img src = "Gen60.gif">
+
+* 1000 episodes:<br>
+<img src = "Gen1000.gif">
+
