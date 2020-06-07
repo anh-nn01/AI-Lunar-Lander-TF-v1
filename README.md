@@ -27,7 +27,7 @@ The equation above based on Bellman equation. You can try creating a sample grap
 
 <img src="Graph.png">
 
-**Difference between Q-learning and DQN:**<br>
+**Difference between Q-learning and DQN:**<br><br><br>
 <img src="Q-table.jpg"><br><br>
 
 <img src="Q-NN.jpg"><br><br>
