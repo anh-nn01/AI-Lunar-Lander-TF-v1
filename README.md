@@ -48,7 +48,7 @@ Link: https://youtu.be/Ih4ngczwZXc<br><br>
 Link: https://youtu.be/3PO7iqdHfl4<br><br>
 
 **Final:**
-* AI now learned how to land the lander safely, quickly, and accurately.
+* AI now learned how to land the lander safely, quickly, and accurately.<br>
 Link: https://youtu.be/p0eLKrLpW8w
 
 
