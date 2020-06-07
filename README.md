@@ -23,10 +23,16 @@ The equation above based on Bellman equation. You can try creating a sample grap
 * For Deep Q-learning, we simply use a NN to approximate Q-value in each time step, and then update the NN so that the estimate Q(s,a) approach its target:<br>
 * <img src="Estimation.jpg"><br>
 * <img src="Target.jpg"><br><br>
+* <img src="Loss.jpg><br><br>
 
 <img src="Graph.png">
 
-<br> It has been proven mathematically and practically that using this approximation, the algorithm with converge to optimal policy in reasonable amount of time.
+**Difference between Q-learning and DQN:**<br>
+<img src="Q-table.jpg"><br><br>
+
+<img src="Q-NN.jpg"><br><br>
+
+<br> It has been proven mathematically and empirically that using this approximation, the algorithm with converge to optimal policy in reasonable amount of time.
 
 <br><br>
 **Records on AI's evolution**<br>
