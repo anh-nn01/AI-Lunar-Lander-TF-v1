@@ -15,6 +15,6 @@ A Reinforcement Learning AI Agent that use Deep Q Network to play Lunar Lander
 * Since the state space is infinite, traditional Q-value table method does not work on this problem. As a result, we need to integrate Q-learning with Neural Network for value approximation. However, the action space remains discrete.
 
 **Q-learning:**
-Q(s_t,a_t) <- Q(s_t,a_t) + \alpha(R_t + \gamma max_aQ(s_{t+1},a_{t+1} - Q(s_t,a_t)) 
+<img src="Q-learning.jpg">
 
 
