@@ -33,4 +33,21 @@ The equation above based on Bellman equation. You can try creating a sample grap
 * The lander just collide with the ground, no clear goal <br>
 Link: https://youtu.be/JrHB2YwNZGo
 
+* First 30 trials:
+* AI now learned how to control the lander appropriately to stay in the air longer
+* It learned that it should not let the lander collide with the ground (as the Q-value for those behaviors are very negative from the previous experience)
+* The lander still collide with the ground, but it seems a little bit better <br>
+Link: https://youtu.be/Ih4ngczwZXc
+
+* First 60 trials:
+* AI now learned how to land the lander safely
+* However, the position is not exactly in the landing zone, and it still takes the lander quite long time to actually land on the ground.
+Link: https://youtu.be/3PO7iqdHfl4
+
+* Final:
+* AI now learned how to land the lander safely, quickly, and accurately.
+Link: https://youtu.be/p0eLKrLpW8w
+
+
+
 
